@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/BfAczfV.gif" height="50"/></h1>
 <h3 align="center">A passionate Front-end developer from Minsk, BLR</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daryakalenik&label=Profile%20views&color=0e75b6&style=flat" alt="daryakalenik" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=daryakalenik&label=Profile%20views&color=0e75b6&style=flat" alt="daryakalenik" /> </p>
 
 - 🔭 I’m currently working on **finding a job or internship**
 
